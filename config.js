@@ -9,25 +9,14 @@ var config = {
     footer: 'Kaynak: scrolli.co',
     chapters: [
         {
-            id: 'gaza-world',
+           
             location: {
                 center: [35.45012, 33.11681],
                 zoom: 2.70,
                 pitch: 45.00,
                 bearing: 1.60
             },
-            onChapterEnter: [
-                {
-                    layer: 'gaza-world',
-                    opacity: 0
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'gaza-world',
-                    opacity: 0
-                }
-            ]
+            
         },
         {
             id: 'gaza-city',
