@@ -10,7 +10,7 @@ var config = {
     chapters: [
         {
             id: 'gaza-world',
-            alignment: 'center',
+            alignment: '',
             title: '',
             image: '',
             description: '',
