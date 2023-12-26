@@ -10,10 +10,6 @@ var config = {
     chapters: [
         {
             id: 'gaza-world',
-            alignment: '',
-            title: '',
-            image: '',
-            description: '',
             location: {
                 center: [35.45012, 33.11681],
                 zoom: 2.70,
