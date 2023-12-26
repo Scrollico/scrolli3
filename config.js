@@ -33,7 +33,7 @@ var config = {
             id: 'gaza-city',
             alignment: 'right',
             title: 'Gazze Şehri Nasıl Bir Yerdi?',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE1.png',
+            image: '',
             description: 'Bir zamanlar canlı sokakları ve pazarlarıyla tanınan Gazze Şehri, tarihi ve kültürel bir zenginliğe sahipti.',
             location: {
                 center: [34.4450, 31.5225],
@@ -58,7 +58,7 @@ var config = {
             id: 'gaza-port',
             alignment: 'right',
             title: 'Kaybolan Tarihi Liman',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE2.png',
+            image: '',
             description: 'Gazze’nin tarihi limanı, savaş öncesi dönemde şehrin ekonomik ve kültürel hayatının kalbiydi.',
             location: {
                 center: [34.43098, 31.52349],
@@ -78,7 +78,7 @@ var config = {
             id: 'al-azhar-university',
             alignment: 'right',
             title: 'Eğitimin Işığı: El-Ezher Üniversitesi',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE3.png',
+            image: '',
             description: 'Savaş öncesinde Gazze’nin eğitim merkezi olan El-Ezher Üniversitesi, gençler için umut ve ilham kaynağıydı.',
             location: {
                 center: [34.44072, 31.51130],
@@ -103,7 +103,7 @@ var config = {
             id: 'gaza-beaches',
             alignment: 'right',
             title: 'Gazze’nin Huzur Veren Sahilleri',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE4.png',
+            image: '',
             description: 'Gazze’nin sahilleri, savaş öncesi halkın buluşma noktasıydı. Şimdi ise sakinliğin ve geçmişin hüzünlü anılarının bir simgesi.',
             location: {
                 center: [34.42447, 31.51576],
@@ -128,7 +128,7 @@ var config = {
             id: 'gaza-unesco',
             alignment: 'right',
             title: 'Kaybolan Miras: Gazze’nin UNESCO Alanları',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE5.png',
+            image: '',
             description: 'Gazze’nin UNESCO Dünya Mirası Alanları, şehrin zengin tarihini ve kültürünü sergiliyordu. Bugün bu alanlar savaşın yıkıcı etkilerini yansıtıyor.',
             location: {
                 center: [34.4521, 31.5169],
@@ -153,7 +153,7 @@ var config = {
             id: 'gaza-agriculture',
             alignment: 'right',
             title: 'Yeşeren Umutlar: Gazze’nin Tarlaları',
-            image: 'https://raw.githubusercontent.com/ScrolliStudio/scrolli3/main/images/DALLE/GAZZE6.png',
+            image: '',
             description: 'Gazze’nin tarım alanları, savaş öncesi halkın geçim kaynağıydı. Artık bu tarlalar, savaşın ve zorlukların tanığı olarak duruyor.',
             location: {
                 center: [34.51936, 31.50836],
